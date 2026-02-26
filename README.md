@@ -109,6 +109,9 @@ $ ./sem.o
 <img width="475" height="546" alt="Screenshot 2026-02-26 190642" src="https://github.com/user-attachments/assets/b85b55ca-7192-4dac-b2fa-520215c87194" />
 
 $ ipcs
+
+
+
 <img width="467" height="144" alt="Screenshot 2026-02-26 190659" src="https://github.com/user-attachments/assets/23c76b4f-424a-4242-96f2-17be69f3a6a5" />
 
 
